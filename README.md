@@ -1,13 +1,13 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding GIF" />
+  <img src="https://github.com/rasheed-masud.png" width="180" height="180" alt="Rasheed Masud" style="border-radius: 50%; border: 3px solid #2f81f7;" />
 </p>
 
 <h1 align="center">Rasheed Masud</h1>
 <h3 align="center">Data Scientist • AI Engineer • Machine Learning Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rasheed-masud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Available%20for%20AI%20Opportunities-Open%20to%20Work-0A66C2?style=for-the-badge&logo=handshake" alt="Open to Work" />
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 
 ## About Me
 
-I am a passionate and results-driven <strong>Data Scientist and AI Engineer</strong> focused on building intelligent systems that solve real-world problems. My work combines <strong>machine learning, artificial intelligence, data analytics, and software engineering</strong> to create intelligent products that are useful, scalable, and production-ready.
+I am a passionate and results-driven <strong>Data Scientist and AI Engineer</strong> focused on building intelligent systems that solve real-world problems. My work combines <strong>machine learning, data analysis, and software engineering</strong> to deliver practical, high-impact solutions.
 
-I specialize in building systems that turn raw data into actionable insights and transform ideas into impactful digital solutions. My interests include <strong>AI applications, LLM-powered systems, predictive analytics, NLP, and end-to-end ML workflows</strong>.
+I specialize in building systems that turn raw data into actionable insights and transform ideas into impactful digital solutions. My interests include <strong>AI applications, LLM-powered systems, predictive analytics, and end-to-end product development</strong>.
 
 - 🤖 AI & Machine Learning Engineer
 - 📊 Data Science & Predictive Analytics
@@ -40,7 +40,7 @@ I specialize in building systems that turn raw data into actionable insights and
 
 ## Professional Focus
 
-I work across the full lifecycle of intelligent systems, from understanding business needs and analyzing data to designing models, developing prototypes, and deploying solutions that can be used in production environments.
+I work across the full lifecycle of intelligent systems, from understanding business needs and analyzing data to designing models, developing prototypes, and deploying solutions that can be used in production.
 
 My focus is on creating reliable, practical, and scalable AI products that drive value rather than just prototypes for research.
 
